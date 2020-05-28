@@ -1,2 +1,3 @@
 # max-studies
-Quick daily patches while learning Max MSP
+
+Quick daily patches while improving my Max MSP skills.
